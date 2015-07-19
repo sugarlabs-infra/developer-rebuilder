@@ -1,0 +1,5 @@
+volumes:
+  - /srv/developer-out:/docs/doc
+
+memory: 200m
+cpu: 100
